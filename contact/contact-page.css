@@ -1,0 +1,21 @@
+.contact-body {
+    background-color: rgb(24, 24, 27);
+    color: white;
+    margin-top: 80px;
+}
+.contact-body h1{
+    font-size: 30pt;
+}
+.contact-body h3{
+    margin-left: 40px;
+}
+.contact-body p{
+    font-size: 13pt;
+    color: rgb(211, 211, 211);
+}
+
+.contact-elmt {
+    margin-bottom: 20px;
+    display: flexbox;
+    flex-direction: row;
+}
