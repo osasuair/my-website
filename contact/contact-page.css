@@ -5,6 +5,9 @@
 }
 .contact-body h1{
     font-size: 30pt;
+    text-align: center;
+    margin-bottom: 30px;
+
 }
 .contact-body h3{
     margin-left: 40px;
@@ -15,7 +18,16 @@
 }
 
 .contact-elmt {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     display: flexbox;
     flex-direction: row;
+    
+}
+
+.contact-elmt p{
+    font-size: 20pt;
+}
+
+.contact-elmt a{
+    padding: 0em;
 }

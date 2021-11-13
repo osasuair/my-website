@@ -13,9 +13,7 @@ navbar.outerHTML = `
         <li class="nav-item">
             <a class="nav-link" href="about.html">About</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="projects.html">Projects</a>
-        </li>
+       
         <li class="nav-item">
             <a class="nav-link" href="experience.html">Experience</a>
         </li>
@@ -26,3 +24,6 @@ navbar.outerHTML = `
 
 </nav>
 `;
+{/* <li class="nav-item">
+<a class="nav-link" href="projects.html">Projects</a>
+</li> */}
