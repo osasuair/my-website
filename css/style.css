@@ -1,9 +1,21 @@
+html {
+    height: 85%;
+    width: 100%;
+    align-self: center;
+    scroll-margin-left: 100rem;
+}
+
+.navbar-nav{
+    overflow-x: auto;
+    flex-shrink: auto;
+}
 .navbar-nav > li, a{
     padding-left:40px;
     padding-right:40px;
 }
 
 body {
+    height: 100%;
     background-color: rgb(24, 24, 27);
     color: white;
     margin-top: 80px;

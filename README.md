@@ -1,2 +1,3 @@
 # My-Website
- Full out Website with multiple pages
+ Full out personal Website with multiple pages
+ Using Html5, CSS, and JavaScript

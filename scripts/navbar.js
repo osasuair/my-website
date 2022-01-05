@@ -1,7 +1,7 @@
 var navbar = document.getElementById("navbar")
 
 navbar.outerHTML = `
-<nav class="navbar fixed-top navbar-expand-sm bg-dark navbar-dark justify-content-center">
+<nav class="navbar fixed-top navbar-expand bg-dark navbar-dark justify-content-center">
 
     <ul class="navbar-nav">
         <!-- Brand/Logo -->

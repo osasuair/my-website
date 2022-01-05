@@ -1,0 +1,15 @@
+#title {
+    font-size: 7rem;
+    color: rgb(151, 255, 255);
+}
+
+#sub-title div{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#click-me {
+    position: relative;
+    left: 0;
+    transition: all .5s ease;
+}

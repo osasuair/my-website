@@ -1,0 +1,72 @@
+#intro div{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+div.h5{
+    line-height: 1.7;
+    font-weight: 350;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.header{
+    color: rgb(151, 255, 255); 
+    font-size: 3rem; 
+    font-weight: 500;
+}
+
+#skills-and-profile{
+    position: relative;
+    margin-top: 2rem; 
+    outline: 2px solid white;
+}
+
+div.sub-header{
+    color: rgba(151, 255, 255, 0.897); 
+    font-size: 1.5rem; 
+    outline: 2px solid white;
+}
+
+#skills{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    
+}
+
+#photo-header{
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+#body{
+    width: 50%;
+    outline: 2px solid white;
+}
+
+#body > ul.a{
+    padding: 0rem 5rem 0rem 5rem;
+    font-weight: bold;
+}
+
+#body > ul.b{
+    padding: 0rem 5rem 0rem 5rem;
+    font-weight: bold;
+}
+
+#body > ul > li{
+    padding-bottom: 5rem;
+}
+
+#profile-jpg{
+    height: 100%;
+    width: auto;
+}
+
+@media (max-width: 57rem) {
+    body {
+        margin-left: 23%;
+    }
+}

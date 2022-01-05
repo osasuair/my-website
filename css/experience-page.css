@@ -1,0 +1,65 @@
+div.header{
+    color: rgb(151, 255, 255); 
+    font-size: 3rem; 
+    font-weight: 500;
+}
+
+#sub-title div{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: rgba(88, 226, 203, 0.884);
+}
+
+div.h5{
+    line-height: 1.7;    
+}
+
+div.h5 > a{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#paragraphs{
+    text-align: left;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+#sub-title2{
+    font-size: 1.5rem;
+    color: rgb(71, 225, 230);
+}
+
+#description{
+    text-align: left;
+    font-weight: 350;
+    padding-left: 4%;
+}
+
+@media (max-height: 50rem) {
+    body {
+        margin-top: +20%;
+
+    }
+}
+
+@media (max-height: 27rem) {
+    body {
+        margin-top: +35%;
+    }
+}
+
+@media (max-width: 60rem) {
+    body {
+        margin-top: +20%;
+
+    }
+}
+
+@media (max-width: 45rem) {
+    body {
+        margin-top: +40%;
+    }
+}
+
+
